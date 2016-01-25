@@ -60,7 +60,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 (i) Gary Shteyngart - Super Sad True Love Story
 
-(ii) Brian K. Vaughan, Marcos Martin and Muntsa Vicente - http://panelsyndicate.com/comics/tpeye
+(ii) Brian K. Vaughan, Marcos Martin and Muntsa Vicente - The Private Eye - http://panelsyndicate.com/comics/tpeye
 
 ##Syllabus
 
