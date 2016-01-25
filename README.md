@@ -1,43 +1,48 @@
-ITP Data Art - Spring 2016
-Instructor: Jer Thorp
-Instructor e-mail: blprnt@blprnt.com
-Office Hours: Monday, 3:30pm to 5:30pm. Sign up on google docs
-Class Logistics: Mon 12:05pm to 3:30pm
-Aims of Course
+# ITP Data Art - Spring 2016
 
-Fascinating and terrifying things are happening the intersection of data and culture. Our lives are being constantly measured, and information about us is being surveilled, stolen, and commodified. Dialogue around this data revolution has been dominated by corporations, governments, and industry - but what about the arts? In this class, we’ll investigate the means by which artists can engage (and are engaging) in the collection, processing, and representation of data. Using a research-focused, prototype-based approach, we’ll build a series of collective and individual projects to interrogate the ‘new data reality’. Students will use Processing, along with a variety of open-source data tools (such as D3.js, Miso, OpenRefine, MapBox & leaflet.js, etc, etc).
+* Instructor: Jer Thorp
+* Instructor e-mail: blprnt@blprnt.com
+* Office Hours: Monday, 3:30pm to 5:30pm. Sign up on [google docs](https://docs.google.com/spreadsheets/d/1wMgrv-KR0MloSnRqckmhNLNF6F9XOHlupLh0-KNV_5U/edit?usp=sharing)
+* Class Logistics: Mon 12:05pm to 3:30pm 
 
-Course Themes & Section Projects
+## Aims of Course
+
+Fascinating and terrifying things are happening the intersection of data and culture. Our lives are being constantly measured, and information about us is being surveilled, stolen, and commodified. Dialogue around this data revolution has been dominated by corporations, governments, and industry - but what about the arts? In this class, we’ll investigate the means by which artists can engage (and are engaging) in the collection, processing, and representation of data. Using a research-focused, prototype-based approach, we’ll build a series of collective and individual projects to interrogate the ‘new data reality’. Students will use Processing, along with a variety of open-source data tools (such as D3.js, Miso, OpenRefine, MapBox & leaflet.js).
+
+## Course Themes & Section Projects
 
 This course will be divided into four 3 week 'sections', each focusing on a different aspect of data art:
 
-Data & Aesthetic
-Text, Archives And Memory Stores
-Data & Publics
-Ethics, Humans & Responsibility
+1. **Data & Aesthetic**
+2. **Text, Archives And Memory Stores**
+3. **Data & Publics**
+4. **Ethics, Humans & Responsibility**
+
 Each of these sections will run for three classes. The first of the three classes will involve a survey of work being done in this area, and a 'workshop' teaching one or two important technical points. The second class will involve a discussion around assigned readings and a review of available tools. The third class will feature a guest speaker, and brief (5 minute) presentations of project work (see below).
 
 For each of these sections, you will complete a small project, which will be assigned on the first day of the section and will be due on the last. For each assignment, you have the choice of doing a conceptual project, or a realized one:
 
-Conceptual projects should be focused on possiblily without constraint. What would or could you build if you were not restricted by materials, budget, tehnological possibility, or coding skills?
+* **Conceptual projects** should be focused on possiblily without constraint. What would or could you build if you were not restricted by materials, budget, tehnological possibility, or coding skills?
 
-Realized projects will be built in the two weeks between assignement and the due date. They will be posted to this repo with source code.
+* **Realized projects** will be built in the two weeks between assignement and the due date. They will be posted to this repo with source code.
 
-Each student will be required to complete 2 conceptual projects, and two realized projects. It is your choice as to which of the sections you choose for which.
+*Each student will be required to complete 2 conceptual projects, and two realized projects. It is your choice as to which of the sections you choose for which.*
 
-Each projects can be done as an individual project, or in groups of up to 3. Each student will be required to do at least one individual project, and at least one group project.
+Each projects can be done as an individual project, or in groups of up to 3. *Each student will be required to do at least one individual project, and at least one group project.* 
 
-Expectations and Workload
+## Expectations and Workload
 
-You can expect to have three assigned readings for each thematic sections. You must complete all readings prior to class, and come ready to participate in discussion. Projects must be posted to this GitHub repo in the appropriate folder, along with source code (where applicable) before the start of class on the third day of each semester.
+You can expect to have three assigned readings for each thematic sections. You must complete all readings prior to class, and come ready to participate in discussion. Projects must be posted to this GitHub repo in the appropriate folder, along with source code (where applicable) before the start of class on the third day of each semester. 
 
-Grading
+## Grading
 
 If we were using a percentage-based grading system, the numbers would look something like this:
 
-Class participation: 30% Semester Projects: 70% Since we’re not using a percentage-based grading system, let me put it another way: if you’re an active contributor to our discussions in class, and you complete your assignments, and you make something ambitious/excellent as a final project, you’ll pass this class. If you don’t, you won’t.
+Class participation: 30%
+Semester Projects: 70%
+Since we’re not using a percentage-based grading system, let me put it another way: if you’re an active contributor to our discussions in class, and you complete your assignments, and you make something ambitious/excellent as a final project, you’ll pass this class. If you don’t, you won’t.
 
-Class Rules
+## Class Rules
 
 (i) Everyone shows up to class on time. If you’re going to be late, let me know in advance. If you need to miss a class for a real reason, you must also let me know in advance.
 
@@ -51,13 +56,13 @@ Class Rules
 
 (vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form.
 
-Touchstones
+## Touchstones
 
 (i) Gary Shteyngart - Super Sad True Love Story
 
 (ii) James Gleick - The Information
 
-Syllabus
+##Syllabus
 
 Data & Aesthetic
 
