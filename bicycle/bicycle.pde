@@ -14,7 +14,7 @@ void draw () {
 void loadData() {
   background(20,10,37);
 
-  String url = "bicycleinjury.csv";
+  String url = "bicycles2.csv";
   table= loadTable(url, "header");
   
  println(table.getRowCount() + " total rows in table"); 
