@@ -17,7 +17,8 @@ void draw()
 
 void loadData()
 {
-  String url = "/Users/dhruvdamle/Documents/ITP/DataArt/dataart2016a/homework/Assignment1/RailroadEmployees/data/Log.xml";
+  //String url = "/Users/dhruvdamle/Documents/ITP/DataArt/dataart2016a/homework/Assignment1/RailroadEmployees/data/Log.xml";
+  String url = "Log.xml";
   XML employeeXML = loadXML(url);
   XML[] records = employeeXML.getChildren("Record");
   // <Row
