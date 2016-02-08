@@ -32,11 +32,11 @@ void loadData(String url) {
     //println(continent);
     //println(continent.length());
     float views = float(averageViews);
-    float view = map (views, 0, 2500000, height-300, height-500);
+    float view = map (views, 0, 2500000, height-300, height-550);
     pushMatrix();
     translate(0, 0);
     rotate(PI/2.0);
-    fill(255, 20);
+    fill(255, 50);
     //textSize(8);
     //int year = -3000;
     //for (int i = 0; i< 51; i++) {
@@ -44,7 +44,7 @@ void loadData(String url) {
     // text(year, 520, -y);
     // year = year + 100;
     //}
-    textSize(4);
+    textSize(8);
     text(name, base, -bth);
     popMatrix();
    
