@@ -1,0 +1,736 @@
+/*
+---------------------------------------- *** ----------------------------------------------------
+ META BOB ROSS
+ ---------------------------------------- *** ----------------------------------------------------
+ 
+ This is a meta sketch of all the works of Bob Ross, the famous TV painter
+ host of The Joy of Painting TV series that aired in the early 80's through mid to late 90's.
+ Each episode would be a paint along with Bob to create one of his signature landscapes.
+ 
+ In this data set called bob-ross/ elements-by-episode.csv, the elements of each painting are logged. 
+ Total Episodes = 403 
+ Total Elements = 69 
+ Elements Used = 47 (+ episode number as implied in the order)
+ Elements Excluded =  painting titles, types of frames, and names of specific people
+ 
+ Credit for creating the data set goes to Walter Hickey at Fivethiryeight.com
+ Link to the git resource:
+ https://github.com/fivethirtyeight/data/blob/master/bob-ross/elements-by-episode.csv
+ 
+ ---------------------------------------- *** ----------------------------------------------------
+ */
+
+int sizeX = 3;
+int sizeY = 14;
+int gap = 1;
+
+//sky starts ////////////////////////////
+float startX1 = (sizeX + gap) / 2 ;
+float startX2 = (sizeX + gap) / 2 ;
+float startX3 = (sizeX + gap) / 2 ;
+float startX4 = (sizeX + gap) / 2 ;
+float startX5 = (sizeX + gap) / 2 ;
+float startX6 = (sizeX + gap) / 2 ;
+float startX7 = (sizeX + gap) / 2 ;
+float startX8 = (sizeX + gap) / 2 ;
+//plants starts /////////////////////////
+float startX9 = (sizeX + gap) / 2 ;
+float startX10 = (sizeX + gap) / 2 ;
+float startX11 = (sizeX + gap) / 2 ;
+float startX12 = (sizeX + gap) / 2 ;
+float startX13 = (sizeX + gap) / 2 ;
+float startX14 = (sizeX + gap) / 2 ;
+float startX15 = (sizeX + gap) / 2 ;
+float startX16 = (sizeX + gap) / 2 ;
+float startX17 = (sizeX + gap) / 2 ;
+//human structure starts ////////////////
+float startX18 = (sizeX + gap) / 2 ;
+float startX19 = (sizeX + gap) / 2 ;
+float startX20 = (sizeX + gap) / 2 ;
+float startX21 = (sizeX + gap) / 2 ;
+float startX22 = (sizeX + gap) / 2 ;
+float startX23 = (sizeX + gap) / 2 ;
+float startX24 = (sizeX + gap) / 2 ;
+float startX25 = (sizeX + gap) / 2 ;
+float startX26 = (sizeX + gap) / 2 ;
+float startX27 = (sizeX + gap) / 2 ;
+float startX28 = (sizeX + gap) / 2 ;
+float startX29 = (sizeX + gap) / 2 ;
+float startX30 = (sizeX + gap) / 2 ;
+float startX31 = (sizeX + gap) / 2 ;
+//land starts //////////////////////////
+float startX32 = (sizeX + gap) / 2 ;
+float startX33 = (sizeX + gap) / 2 ;
+float startX34 = (sizeX + gap) / 2 ;
+float startX35 = (sizeX + gap) / 2 ;
+float startX36 = (sizeX + gap) / 2 ;
+float startX37 = (sizeX + gap) / 2 ;
+float startX38 = (sizeX + gap) / 2 ;
+float startX39 = (sizeX + gap) / 2 ;
+float startX40 = (sizeX + gap) / 2 ;
+//water starts //////////////////////////
+float startX41 = (sizeX + gap) / 2 ;
+float startX42 = (sizeX + gap) / 2 ;
+float startX43 = (sizeX + gap) / 2 ;
+float startX44 = (sizeX + gap) / 2 ;
+float startX45 = (sizeX + gap) / 2 ;
+float startX46 = (sizeX + gap) / 2 ;
+float startX47 = (sizeX + gap) / 2 ;
+
+int c;
+Table table;
+PFont font;
+
+void setup() {
+  size(1627, 725);
+  loadData("elements-by-episode.csv");
+  smooth();
+}
+
+void draw() {
+  int fontX = 5;
+  font = createFont("ITC - ITCAvantGardeStd-Bk.otf", 8);
+  textFont(font);
+  fill(80, 80, 80);
+  text ("Aurora Borealis", fontX, 12);
+  text ("Night", fontX, 28);
+  text ("Moon", fontX, 43);
+  text ("Sun", fontX, 58);
+  text ("Cirrus", fontX, 73);
+  text ("Clouds", fontX, 88);
+  text ("Cumulus", fontX, 103);
+  text ("Fog", fontX, 118);
+  text ("Conifer", fontX, 133);
+  text ("Deciduous", fontX, 148);
+  text ("Trees", fontX, 163);
+  text ("Tree", fontX, 178);
+  text ("Palms", fontX, 193);
+  text ("Bushes", fontX, 208);
+  text ("Cactus", fontX, 223);
+  text ("Flowers", fontX, 238);
+  text ("Grass", fontX, 253);
+  text ("Farm", fontX, 268);
+  text ("Barn", fontX, 283);
+  text ("Structure", fontX, 298);
+  text ("Wind  Mill", fontX, 313);
+  text ("Mill", fontX, 328);
+  text ("Building", fontX, 343);
+  text ("Cabin", fontX, 358);
+  text ("Fence", fontX, 373);
+  text ("Path", fontX, 388);
+  text ("Person", fontX, 403);
+  text ("Bridge", fontX, 418);
+  text ("Lighthouse", fontX, 433);
+  text ("Dock", fontX, 448);
+  text ("Boat", fontX, 463);
+  text ("Beach", fontX, 478);
+  text ("Cliff", fontX, 493);
+  text ("Hills", fontX, 508);
+  text ("Mountain", fontX, 523);
+  text ("Mountains", fontX, 538);
+  text ("Rocks", fontX, 553);  
+  text ("Snowy Mountain", fontX, 568);
+  text ("Fire", fontX, 583);
+  text ("Winter", fontX, 598);
+  text ("Lake", fontX, 613);
+  text ("Lakes", fontX, 628);
+  text ("Ocean", fontX, 643);
+  text ("River", fontX, 658);
+  text ("Snow", fontX, 673);
+  text ("Waterfall", fontX, 689);
+  text ("Waves", fontX, 703);
+  text ("Time", fontX, 718);
+  stroke(80, 80, 80);
+  line (25,715, 1620, 715);
+}
+
+void loadData(String url) {
+
+  table = loadTable("elements-by-episode.tsv", "header");
+  background(255);
+
+  println(table.getRowCount() + " total rows in table"); 
+  println(table.getColumnCount() + " total columns in table"); 
+
+
+  for (TableRow row : table.rows()) {
+
+    println(table.rows());
+
+    //sky elements//////////////////////////////////////////////////////////////
+    String aurora = row.getString("AURORA_BOREALIS");
+    boolean A1 = boolean(aurora);
+    println(aurora);
+    println(A1);
+    if (A1) {
+      noStroke();
+      fill(171, 246, 225);
+      rect((startX1++) * (sizeX + gap), 0, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX1++) * (sizeX + gap), 0, sizeX, sizeY);
+    }
+
+    String night = row.getString("NIGHT");
+    boolean N1 = boolean(night);
+    if (N1) {
+      noStroke();
+      fill(161, 201, 255);
+      rect((startX7++)*(sizeX + gap), 15, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX7++) * (sizeX + gap), 15, sizeX, sizeY);
+    }
+
+    String moon = row.getString("MOON");
+    boolean M1 = boolean(moon);
+    if (M1) {
+      noStroke();
+      fill(195, 222, 239);
+      rect((startX6++)*(sizeX + gap), 30, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX6++) * (sizeX + gap), 30, sizeX, sizeY);
+    }
+
+    String sun = row.getString("SUN");
+    boolean S1 = boolean(sun);
+    if (S1) {
+      noStroke();
+      fill(222, 243, 255);
+      rect((startX8++)*(sizeX + gap), 45, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX8++) * (sizeX + gap), 45, sizeX, sizeY);
+    }
+
+    String cirrus = row.getString("CIRRUS");
+    boolean C1 = boolean(cirrus);
+    //println(cirrus);
+    //println(C1);
+    if (C1) {
+      noStroke();
+      fill(195, 232, 255);
+      rect((startX2++)*(sizeX + gap), 60, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX2++) * (sizeX + gap), 60, sizeX, sizeY);
+    }
+
+    String clouds = row.getString("CLOUDS");
+    boolean C2 = boolean(clouds);
+    if (C2) {
+      noStroke();
+      fill(157, 217, 255);
+      rect((startX3++)*(sizeX + gap), 75, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX3++) * (sizeX + gap), 75, sizeX, sizeY);
+    }
+
+    String cumulus = row.getString("CUMULUS");
+    boolean C3 = boolean(cumulus);
+    if (C3) {
+      noStroke();
+      fill(125, 205, 255);
+      rect((startX4++)*(sizeX + gap), 90, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX4++) * (sizeX + gap), 90, sizeX, sizeY);
+    }
+
+    String fog = row.getString("FOG");
+    boolean F1 = boolean(fog);
+    if (F1) {
+      noStroke();
+      fill(180, 198, 210);
+      rect((startX5++)*(sizeX + gap), 105, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX5++) * (sizeX + gap), 105, sizeX, sizeY);
+    }
+
+    //plant elements //////////////////////////////////////////////
+
+    String conifer = row.getString("CONIFER");
+    boolean C4 = boolean(conifer);
+    if (C4) {
+      noStroke();
+      fill(195, 239, 216);
+      rect((startX9++)*(sizeX + gap), 120, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX9++) * (sizeX + gap), 120, sizeX, sizeY);
+    }
+
+    String deciduous = row.getString("DECIDUOUS");
+    boolean D4 = boolean(deciduous);
+    if (D4) {
+      noStroke();
+      fill(40, 177, 158);
+      rect((startX10++)*(sizeX + gap), 135, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX10++) * (sizeX + gap), 135, sizeX, sizeY);
+    }
+
+    String trees = row.getString("TREES");
+    boolean T1 = boolean(trees);
+    if (T1) {
+      noStroke();
+      fill(105, 191, 145);
+      rect((startX11++)*(sizeX + gap), 150, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX11++) * (sizeX + gap), 150, sizeX, sizeY);
+    }
+
+    String tree = row.getString("TREE");
+    boolean T2 = boolean(tree);
+    if (T2) {
+      noStroke();
+      fill(84, 151, 116);
+      rect((startX12++)*(sizeX + gap), 165, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX12++) * (sizeX + gap), 165, sizeX, sizeY);
+    }
+
+    String palms = row.getString("PALM_TREES");
+    boolean P1 = boolean(palms);
+    if (P1) {
+      noStroke();
+      fill(55, 185, 117);
+      rect((startX13++)*(sizeX + gap), 180, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX13++) * (sizeX + gap), 180, sizeX, sizeY);
+    }
+
+    String bushes = row.getString("BUSHES");
+    boolean B1 = boolean(bushes);
+    if (B1) {
+      noStroke();
+      fill(55, 122, 87);
+      rect((startX14++)*(sizeX + gap), 195, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX14++) * (sizeX + gap), 195, sizeX, sizeY);
+    }
+
+    String cactus = row.getString("CACTUS");
+    boolean C5 = boolean(cactus);
+    if (C5) {
+      noStroke();
+      fill(202, 220, 211);
+      rect((startX15++)*(sizeX + gap), 210, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX15++) * (sizeX + gap), 210, sizeX, sizeY);
+    }
+
+    String flowers = row.getString("FLOWERS");
+    boolean F2 = boolean(flowers);
+    if (F2) {
+      noStroke();
+      fill(90, 233, 188);
+      rect((startX16++)*(sizeX + gap), 225, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX16++) * (sizeX + gap), 225, sizeX, sizeY);
+    }
+
+    String grass = row.getString("GRASS");
+    boolean G1 = boolean(grass);
+    if (G1) {
+      noStroke();
+      fill(206, 255, 231);
+      rect((startX17++)*(sizeX + gap), 240, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX17++) * (sizeX + gap), 240, sizeX, sizeY);
+    }
+
+    //human structure elements ///////////////////////////////////////////////////
+
+    String farm = row.getString("FARM");
+    boolean F3 = boolean(farm);
+    if (F3) {
+      noStroke();
+      fill(206, 179, 138);
+      rect((startX18++)*(sizeX + gap), 255, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX18++) * (sizeX + gap), 255, sizeX, sizeY);
+    }
+
+    String barn = row.getString("BARN");
+    boolean B2 = boolean(barn);
+    if (B2) {
+      noStroke();
+      fill(249, 196, 118);
+      rect((startX19++)*(sizeX + gap), 270, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX19++) * (sizeX + gap), 270, sizeX, sizeY);
+    }
+
+    String structure = row.getString("STRUCTURE");
+    boolean S2 = boolean(structure);
+    if (S2) {
+      noStroke();
+      fill(80, 66, 47);
+      rect((startX20++)*(sizeX + gap), 285, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX20++) * (sizeX + gap), 285, sizeX, sizeY);
+    }
+
+    String windMill = row.getString("WINDMILL");
+    boolean W1 = boolean(windMill);
+    if (W1) {
+      noStroke();
+      fill(241, 172, 59);
+      rect((startX21++)*(sizeX + gap), 300, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX21++) * (sizeX + gap), 300, sizeX, sizeY);
+    }
+
+    String mill = row.getString("MILL");
+    boolean M2 = boolean(mill);
+    if (M2) {
+      noStroke();
+      fill(164, 147, 122);
+      rect((startX22++)*(sizeX + gap), 315, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX22++) * (sizeX + gap), 315, sizeX, sizeY);
+    }
+
+    String building = row.getString("BUILDING");
+    boolean B3 = boolean(building);
+    if (B3) {
+      noStroke();
+      fill(133, 124, 110);
+      rect((startX23++)*(sizeX + gap), 330, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX23++) * (sizeX + gap), 330, sizeX, sizeY);
+    }
+
+    String cabin = row.getString("CABIN");
+    boolean C6 = boolean(cabin);
+    if (C6) {
+      noStroke();
+      fill(172, 146, 110);
+      rect((startX24++)*(sizeX + gap), 345, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX24++) * (sizeX + gap), 345, sizeX, sizeY);
+    }
+
+    String fence = row.getString("FENCE");
+    boolean F4 = boolean(fence);
+    if (F4) {
+      noStroke();
+      fill(221, 192, 151);
+      rect((startX25++)*(sizeX + gap), 360, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX25++) * (sizeX + gap), 360, sizeX, sizeY);
+    }
+
+    String path = row.getString("PATH");
+    boolean P2 = boolean(path);
+    if (P2) {
+      noStroke();
+      fill(228, 212, 189);
+      rect((startX26++)*(sizeX + gap), 375, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX26++) * (sizeX + gap), 375, sizeX, sizeY);
+    }
+
+    String person = row.getString("PERSON");
+    boolean P3 = boolean(person);
+    if (P3) {
+      noStroke();
+      fill(252, 221, 177);
+      rect((startX27++)*(sizeX + gap), 390, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX27++) * (sizeX + gap), 390, sizeX, sizeY);
+    }
+
+    String bridge = row.getString("BRIDGE");
+    boolean B4 = boolean(bridge);
+    if (B4) {
+      noStroke();
+      fill(179, 168, 152);
+      rect((startX28++)*(sizeX + gap), 405, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX28++) * (sizeX + gap), 405, sizeX, sizeY);
+    }
+
+    String lighthouse = row.getString("LIGHTHOUSE");
+    boolean L1 = boolean(lighthouse);
+    if (L1) {
+      noStroke();
+      fill(211, 206, 198);
+      rect((startX29++)*(sizeX + gap), 420, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX29++) * (sizeX + gap), 420, sizeX, sizeY);
+    }
+
+    String dock = row.getString("DOCK");
+    boolean D1 = boolean(dock);
+    if (D1) {
+      noStroke();
+      fill(155, 151, 145);
+      rect((startX30++)*(sizeX + gap), 435, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX30++) * (sizeX + gap), 435, sizeX, sizeY);
+    }
+
+    String boat = row.getString("BOAT");
+    boolean B5 = boolean(boat);
+    if (B5) {
+      noStroke();
+      fill(102, 96, 88);
+      rect((startX31++)*(sizeX + gap), 450, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX31++) * (sizeX + gap), 450, sizeX, sizeY);
+    }
+
+    //land elements ///////////////////////////////////////////////////////////////
+    String beach = row.getString("BEACH");
+    boolean B6 = boolean(beach);
+    if (B6) {
+      noStroke();
+      fill(240, 231, 152);
+      rect((startX32++)*(sizeX + gap), 465, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX32++) * (sizeX + gap), 465, sizeX, sizeY);
+    }
+
+    String cliff = row.getString("CLIFF");
+    boolean C7 = boolean(cliff);
+    if (C7) {
+      noStroke();
+      fill(201, 191, 110);
+      rect((startX33++)*(sizeX + gap), 480, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX33++) * (sizeX + gap), 480, sizeX, sizeY);
+    }
+
+    String hills = row.getString("HILLS");
+    boolean H1 = boolean(hills);
+    if (H1) {
+      noStroke();
+      fill(175, 164, 71);
+      rect((startX34++)*(sizeX + gap), 495, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX34++) * (sizeX + gap), 495, sizeX, sizeY);
+    }
+
+    String mountain = row.getString("MOUNTAIN");
+    boolean M3 = boolean(mountain);
+    if (M3) {
+      noStroke();
+      fill(145, 132, 22);
+      rect((startX35++)*(sizeX + gap), 510, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX35++) * (sizeX + gap), 510, sizeX, sizeY);
+    }
+
+    String mountains = row.getString("MOUNTAINS");
+    boolean M4 = boolean(mountains);
+    if (M4) {
+      noStroke();
+      fill(219, 199, 32);
+      rect((startX36++)*(sizeX + gap), 525, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX36++) * (sizeX + gap), 525, sizeX, sizeY);
+    }
+
+    String rocks = row.getString("ROCKS");
+    boolean R1 = boolean(rocks);
+    if (R1) {
+      noStroke();
+      fill(229, 225, 188);
+      rect((startX37++)*(sizeX + gap), 540, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX37++) * (sizeX + gap), 540, sizeX, sizeY);
+    }
+
+    String snowMount = row.getString("SNOWY_MOUNTAIN");
+    boolean S3 = boolean(snowMount);
+    if (S3) {
+      noStroke();
+      fill(252, 249, 220);
+      rect((startX38++)*(sizeX + gap), 555, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX38++) * (sizeX + gap), 555, sizeX, sizeY);
+    }
+
+    String fire = row.getString("FIRE");
+    boolean F5 = boolean(fire);
+    if (F5) {
+      noStroke();
+      fill(255, 247, 175);
+      rect((startX39++)*(sizeX + gap), 570, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX39++) * (sizeX + gap), 570, sizeX, sizeY);
+    }
+
+    String winter = row.getString("WINTER");
+    boolean W2 = boolean(winter);
+    if (W2) {
+      noStroke();
+      fill(255, 237, 89);
+      rect((startX40++)*(sizeX + gap), 585, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX40++) * (sizeX + gap), 585, sizeX, sizeY);
+    }
+
+    //water elements ////////////////////////////////////////////////////////////////
+
+    String lake = row.getString("LAKE");
+    boolean L2 = boolean(lake);
+    if (L2) {
+      noStroke();
+      fill(96, 123, 178);
+      rect((startX41++)*(sizeX + gap), 600, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX41++) * (sizeX + gap), 600, sizeX, sizeY);
+    }
+
+    String lakes = row.getString("LAKES");
+    boolean L3 = boolean(lakes);
+    if (L3) {
+      noStroke();
+      fill(59, 73, 103);
+      rect((startX42++)*(sizeX + gap), 615, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX42++) * (sizeX + gap), 615, sizeX, sizeY);
+    }
+
+    String ocean = row.getString("OCEAN");
+    boolean O1 = boolean(ocean);
+    if (O1) {
+      noStroke();
+      fill(59, 73, 103);
+      rect((startX43++)*(sizeX + gap), 630, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX43++) * (sizeX + gap), 630, sizeX, sizeY);
+    }
+
+    String river = row.getString("RIVER");
+    boolean R2 = boolean(ocean);
+    if (R2) {
+      noStroke();
+      fill(150, 168, 205);
+      rect((startX44++)*(sizeX + gap), 645, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX44++) * (sizeX + gap), 645, sizeX, sizeY);
+    }
+
+    String snow = row.getString("SNOW");
+    boolean S4 = boolean(snow);
+    if (S4) {
+      noStroke();
+      fill(106, 118, 143);
+      rect((startX45++)*(sizeX + gap), 660, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX45++) * (sizeX + gap), 660, sizeX, sizeY);
+    }
+
+    String waterfall = row.getString("WATERFALL");
+    boolean W3 = boolean(waterfall);
+    if (W3) {
+      noStroke();
+      fill(94, 139, 229);
+      rect((startX46++)*(sizeX + gap), 675, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX46++) * (sizeX + gap), 675, sizeX, sizeY);
+    }
+
+    String waves = row.getString("WAVES");
+    boolean W4 = boolean(waves);
+    if (W4) {
+      noStroke();
+      fill(34, 56, 102);
+      rect((startX47++)*(sizeX + gap), 690, sizeX, sizeY);
+    } else {
+      noStroke();
+      fill(243, 242, 242);
+      rect((startX47++) * (sizeX + gap), 690, sizeX, sizeY);
+    }
+  }
+}
