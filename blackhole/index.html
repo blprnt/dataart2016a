@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Black Holes</title>
+  <meta name="author" content="Ross Goodwin">
+  <meta name="description" content="Visualizing the scale of supermassive black holes">
+
+  <link href='https://fonts.googleapis.com/css?family=Cousine' rel='stylesheet' type='text/css'>
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Cousine', monospace;
+}
+
+#line {
+  position: fixed;
+  z-index: 9999;
+  border-right: 1px solid #59ABE3;
+  height: 100%;
+  width: 50%;
+  left: 0;
+}
+
+#textbox {
+  position: fixed;
+  z-index: 999;
+  top: 10px;
+  width: 100%;
+}
+
+.infop {
+  margin: 0 auto;
+  padding: 15px;
+  color: #59ABE3;
+}
+
+</style>
+
+</head>
+
+<body>
+  <div id="line"></div>
+  <div id="textbox">
+    <p class="infop">NAME: THE SUN<br>RADIUS: 6.955e+8 METERS</p>
+  </div>
+  <script src="js/jquery-2.2.0.min.js"></script>
+  <script src="js/p5.min.js"></script>
+  <script src="js/sketch.js"></script>
+</body>
+</html>
