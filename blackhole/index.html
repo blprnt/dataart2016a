@@ -8,21 +8,37 @@
   <meta name="author" content="Ross Goodwin">
   <meta name="description" content="Visualizing the scale of supermassive black holes">
 
-  <link href='https://fonts.googleapis.com/css?family=Cousine' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+  <!-- Loading Bar -->
+  <link href="css/loader.css" rel="stylesheet">
 
 <style>
 body {
   margin: 0;
-  font-family: 'Cousine', monospace;
+  font-family: 'Lato', monospace;
+  background-color: #000000;
 }
 
 #line {
   position: fixed;
+  bottom: 0;
   z-index: 9999;
-  border-right: 1px solid #59ABE3;
-  height: 100%;
+  border-right: 1px solid #F2F1EF;
+  height: 33%;
   width: 50%;
   left: 0;
+  display: none;
+}
+
+#poembox {
+  position: fixed;
+  z-index: 999;
+  bottom: 30%;
+  right: 10%;
+  /*width: 100%;*/
+  font-size: 0.7em;
+  display: none;
 }
 
 #textbox {
@@ -30,13 +46,16 @@ body {
   z-index: 999;
   top: 10px;
   width: 100%;
+  display: none;
 }
 
 .infop {
   margin: 0 auto;
-  padding: 15px;
-  color: #59ABE3;
+  padding: 20px 35px;
+  color: #F2F1EF;
 }
+
+
 
 </style>
 
@@ -45,10 +64,21 @@ body {
 <body>
   <div id="line"></div>
   <div id="textbox">
-    <p class="infop">NAME: THE SUN<br>RADIUS: 6.955e+8 METERS</p>
+    <p class="infop">The Sun<br>radius: 6.955e+8 meters</p>
   </div>
+  <div id="poembox">
+    <p class="infop">
+      I have seen the dark universe yawning,<br>
+      Where the black planets roll without aim;<br>
+      Where they roll in their horror unheeded,<br>
+      without knowledge or lustre or name.<br>
+      <small>&ndash;H.P. Lovecraft</small>
+    </p>
+  </div>
+  <div id="p5_loading" class="loader loadingdiv"></div>
   <script src="js/jquery-2.2.0.min.js"></script>
   <script src="js/p5.min.js"></script>
+  <script src="js/p5.sound.min.js"></script>
   <script src="js/sketch.js"></script>
 </body>
 </html>
