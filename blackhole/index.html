@@ -8,7 +8,7 @@
   <meta name="author" content="Ross Goodwin">
   <meta name="description" content="Visualizing the scale of supermassive black holes">
 
-  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,900,100,300,700' rel='stylesheet' type='text/css'>
 
   <!-- Loading Bar -->
   <link href="css/loader.css" rel="stylesheet">
@@ -55,6 +55,13 @@ body {
   color: #F2F1EF;
 }
 
+.light {
+  font-weight: 100;
+}
+
+.heavy {
+  font-weight: 900;
+}
 
 
 </style>
@@ -64,7 +71,7 @@ body {
 <body>
   <div id="line"></div>
   <div id="textbox">
-    <p class="infop">The Sun<br>radius: 6.955e+8 meters</p>
+    <p class="infop"><span class="heavy">The Sun</span><br><span class="light">radius: 6.955e+8 meters</span></p>
   </div>
   <div id="poembox">
     <p class="infop">

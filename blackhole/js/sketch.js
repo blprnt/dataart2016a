@@ -110,7 +110,7 @@ function draw() {
         if (camX+width/2 > totalX && i != 0) {
           curRad = bh['radius_ratio'];
           $('#textbox').html(
-            '<p class="infop">'+bh['name']+'<br>Schwarzchild radius: '+parseInt(bh['radius']).toExponential(4)+' meters</p>'
+            '<p class="infop"><span class="heavy">'+bh['name']+'</span><br><span class="light">Schwarzchild radius: '+parseInt(bh['radius']).toExponential(4)+' meters</span></p>'
           );
         }
         totalX += xOver;
