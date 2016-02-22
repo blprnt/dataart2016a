@@ -1,0 +1,96 @@
+void setup() {
+  size (1280, 720);
+  smooth();
+  
+  
+  
+  loadData();
+  
+}
+
+void draw () {
+  PImage img;
+  img = loadImage("//Users/danaabrassart/Documents/DataArt/DataVizProject/DataViz_2/birds3.jpg");
+  background(img);
+  
+   if (mouseX > 500 && mouseY > 300 ) {
+    fill(255);
+    rect(0, 0, width, height);
+    fill(0);
+    ellipse(width/2, height/2, 484, 484);
+    
+  } else {
+    loadData();
+  };
+  
+    
+  //fill(0);
+  //text("X: " + mouseX, 10, 20);
+  //text("Y: " + mouseY, 10, 40);
+}
+
+void loadData() {
+  String url = "/Users/danaabrassart/Documents/DataArt/DataVizProject/DataViz_2/ExonerationDataConvictionDate.csv";
+  Table exonerate = loadTable(url, "header");
+   println(exonerate.getRowCount() + " total rows in table"); 
+   
+    float i = 0;
+    float box_height = 0.42;
+    float j = 0;
+    for (TableRow row : exonerate.rows()) {
+    
+    float yrs = row.getInt("Yrs in Jail");
+    float ageConvicted = row.getInt("Age");
+    float ageReleased = row.getInt("Age Released");
+    float ageNow = row.getInt("Age Now");
+    //float timeSince = row.getInt("Time Since");
+   
+    
+    //println(ageConvicted, ageNow, yrs);
+    
+    float x = ageConvicted / ageNow;
+    //float z = ageReleased / ageNow;
+    float rectWidth = yrs / ageNow; 
+    float release = ageReleased / ageNow;
+    
+    //float w = map(ageNow, 0, ageNow / ageNow, 0, width);
+    //float rectWidth = map(yrs, 0, 85, 0, width);
+    
+    //float rectX = map(ageConvicted, 0, 85, 0, width);
+    //println(x);
+    //println(rectWidth);
+    
+   
+    
+    
+    noStroke();
+    //stroke(0);
+    fill(0);
+    rect(width*x, i, width*rectWidth, box_height);
+   
+    //stroke(0);
+    //text(rectWidth, 0, 50);
+    
+    j = (j + rectWidth);
+    println(j);
+   
+   stroke(255);
+   fill(255);
+   rect(0, i, width*x, box_height);
+   
+   noStroke();
+   fill(130, 200, 255);
+   rect(width*release, i, width, box_height);
+    
+   
+    i = i+box_height;
+    
+
+   
+    }
+    
+   
+    //total percentage of time spent in jail
+    float t = j / 1728; 
+    println(t);
+}
