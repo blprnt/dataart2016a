@@ -1,0 +1,56 @@
+h1{
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300; position:absolute; width:100%; text-align:center; margin: 0 auto; top: 50%;
+   color: #ffffff;
+}
+body {
+   margin: 0;
+   background:black;
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+a{
+	color:#aaaaaa;
+}
+#intro{
+  text-align: right;
+  color: white;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  font-size: 16;
+  z-index: 2;
+  width: 30%;
+  background-color: rgba(0,0,0,64);
+  border: solid;
+  border-color: white;
+  border-width: .1px;
+  opacity: 0.8;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 15px;
+}
+
+#close{
+	border:solid;
+	border-width:.1px;
+	margin:10px auto;
+	margin-top:20px;
+	padding:10px;
+	width:50%;
+	text-align: center;
+	padding: 0px;
+	visibility: hidden;
+}
+
+#close:hover{
+	cursor:pointer;
+}
+#loading{
+	visibility: hidden;
+}

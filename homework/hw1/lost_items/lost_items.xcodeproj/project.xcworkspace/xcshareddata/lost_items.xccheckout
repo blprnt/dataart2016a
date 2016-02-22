@@ -10,31 +10,31 @@
 	<string>lost_items</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9889FE1204420C7D7812211F900BC6CAC634ED36</key>
-		<string>https://github.com/Willjfield/DataArt.git</string>
+		<key>19E5EAC4C043A53FA716CF17938B3B730D0EADA5</key>
+		<string>https://github.com/Willjfield/dataart2016a.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>of_v0.9.1_osx_release/apps/myApps/lost_items/lost_items.xcodeproj</string>
+	<string>homework/lost_items/lost_items.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9889FE1204420C7D7812211F900BC6CAC634ED36</key>
-		<string>../../../../../..</string>
+		<key>19E5EAC4C043A53FA716CF17938B3B730D0EADA5</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Willjfield/DataArt.git</string>
+	<string>https://github.com/Willjfield/dataart2016a.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9889FE1204420C7D7812211F900BC6CAC634ED36</string>
+	<string>19E5EAC4C043A53FA716CF17938B3B730D0EADA5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9889FE1204420C7D7812211F900BC6CAC634ED36</string>
+			<string>19E5EAC4C043A53FA716CF17938B3B730D0EADA5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>mywork</string>
+			<string>dataart2016a</string>
 		</dict>
 	</array>
 </dict>
