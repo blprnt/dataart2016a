@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<g id="Layer_1">
+	<circle fill="none" stroke="#00A651" stroke-miterlimit="10" cx="0" cy="500" r="489.5"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="2" y1="16" x2="2" y2="5"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="342.4" y1="157.6" x2="349.8" y2="150.2"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="485.3" y1="498" x2="493.1" y2="498"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="419.7" y1="257.7" x2="428.8" y2="252.4"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="125.7" y1="31.8" x2="128.2" y2="22.6"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="242.2" y1="80.5" x2="247.4" y2="71.5"/>
+	<line fill="none" stroke="#00A651" stroke-miterlimit="10" x1="468.9" y1="373.6" x2="476.4" y2="371.6"/>
+</g>
+<g id="Layer_3" display="none">
+	<rect x="-12.3" y="-13.3" display="inline" fill="#231F20" stroke="#FFFFFF" stroke-miterlimit="10" width="526.7" height="534"/>
+</g>
+<g id="Layer_2">
+	<rect x="2" y="17.7" fill="none" width="17.9" height="13"/>
+	<text transform="matrix(1 0 0 1 2.0002 27.7051)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">90</text>
+	
+		<rect x="330.5" y="157" transform="matrix(0.7071 0.7071 -0.7071 0.7071 214.3804 -191.7544)" fill="none" width="16.3" height="11.8"/>
+	
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 329.983 160.0168)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">45</text>
+	<rect x="231.5" y="81.2" transform="matrix(0.866 0.5 -0.5 0.866 75.8395 -108.2787)" fill="none" width="17" height="12.3"/>
+	
+		<text transform="matrix(0.866 0.5 -0.5 0.866 230.6788 86.4674)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">60</text>
+	<rect x="117" y="33" transform="matrix(0.9659 0.2588 -0.2588 0.9659 14.6091 -31.3689)" fill="none" width="18.8" height="13.6"/>
+	
+		<text transform="matrix(0.9659 0.2588 -0.2588 0.9659 116.5104 40.443)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">75</text>
+	<rect x="406.1" y="255.9" transform="matrix(0.5 0.866 -0.866 0.5 434.4067 -228.1462)" fill="none" width="17.3" height="12.5"/>
+	
+		<text transform="matrix(0.5 0.866 -0.866 0.5 407.2132 256.4886)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">30</text>
+	
+		<rect x="453.5" y="371.1" transform="matrix(0.2588 0.9659 -0.9659 0.2588 707.3162 -166.7639)" fill="none" width="17.7" height="12.8"/>
+	
+		<text transform="matrix(0.2588 0.9659 -0.9659 0.2588 456.5526 369.8914)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="14px">15</text>
+</g>
+</svg>
