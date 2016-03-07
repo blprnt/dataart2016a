@@ -1,0 +1,10355 @@
+{"title": "Iliad Character Traits",
+    "source": "Homer's The Iliad",
+    "items":[
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "beautiful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "vengeful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "fig-trees"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "unhappy"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "hardy"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "impotent"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "dear"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "further"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "heavy"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "past--i"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "well-arm"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "sensible"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "breathless"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "deceitful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "daily"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "stubborn"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "various"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "superior"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "regal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "numerous"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "deadly"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "wretched"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "good"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "wild"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "important"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "faithful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "hush"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "general"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "rear"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "daring"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "wide"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "troubled"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "cloudy"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "double"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "lively"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "skilful"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "majestic"
+  },
+  {
+    "Name": "Agamemnon",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "untimely"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "languid"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "new-born"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sleek"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "ghastly"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "cold"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "brittle"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "reluctant"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "styptic"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "dauntless"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "legion"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "alternate"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "slow-moving"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "good"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fourth"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fat"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "foremost"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "early"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "complete"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "bloody"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "grim"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "rear"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "wont"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "entire"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "lost"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "stiff"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "radiant"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "averse"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "double"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "patroclus--ah!--say"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "heavy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sinewy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sovereign"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "two-and-thirtieth"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "orphan"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "obliging"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "dear"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "tumultuous"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "pale"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "unrelenting"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "short-lived"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "paternal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "red"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "unconscious"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fervent"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "industrious"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "greedy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "weary"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "rapid"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "thick-succeeding"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "heroic"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "many"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "ill"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "keen"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "vengeful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "hollow"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "eleventh"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "female"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "tame"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "open"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "restless"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "hapless"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "silent"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "indulgent"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "decent"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "due"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "virgin"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "much"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "low"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "three-and-thirtieth"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "white"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "bitter"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "prone"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "goddess-mother"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "dangerous"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sore"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "alive"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "hateful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "evil"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "half-burn"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "glad"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "wide"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "solid"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "straight"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sturdy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "triumphant"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "self-same"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "cruel"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "glossy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "mindful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "wild"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "prostrate"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "elaborate"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "high-bounding"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "far-shooting"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "aerial"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "horse-hair"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "certain"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "terrible"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "single"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "frantic"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "graceful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sylvan"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "phantom"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "mutual"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sullen"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "pensive"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "copious"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "pleasing"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "breathless"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "unwilling"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "several"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "uttermost"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "noble"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "sure"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "opposite"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "social"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "nightly"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "never-erring"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "haggard"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "one-and-thirtieth"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "short"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "admonish"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "whole"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "clear"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "impatient"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "green"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "rousing"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Patroclus",
+    "Type": "Human",
+    "Trait": "tall"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "prudent"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "sanguine"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "incessant"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "sore"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "doubtful"
+  },
+  {
+    "Name": "Great Ajax",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "pursuant"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "wakeful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "ignoble"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "new-press"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "vast"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "pleasing"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "various-colour"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "virtuous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "brother-kings"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "fourth"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "big"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "early"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "gloomy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "rear"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "endless"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "several"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "profound"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "eleventh"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "antique"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "second"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "honourable"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "dear"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "further"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "blue"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "public"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "red"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "inspiring"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "ponderous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "rapid"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "worthy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "shaggy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "ill"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "s-milk"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "timorous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "all-confirming"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "military"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "loud-applauding"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "sweet"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "hardy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "ever-fruitful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "little"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "heart-piercing"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "virgin"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "calm"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "white"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "flat"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "vigorous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "jealous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "brisk"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "tuneful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "cloud-compelling"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "careful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "wide"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "third"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "wild"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "prostrate"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "steep"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "cordial"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "genial"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "costly"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "flavourous"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "general"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "frantic"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "graceful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "watchful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "intrepid"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "wholesome"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "faithful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "deadly"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "inglorious"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "absolute"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "visionary"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "impulsive"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "numb"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "prudent"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "pensive"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "hasty"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "persuasive"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "impatient"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Nestor",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "bulky"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fond"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "trusting"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fancy"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fraught"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "well-known"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "hardy"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "single"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "ponderous"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "ready"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "savage"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "breathless"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "wondrous"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "opprobrious"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "insulting"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "adverse"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "ruthless"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "sylvan"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "eager"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "low"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "heartless"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "harmless"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "watery"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "unerring"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "superior"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "foremost"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "sore"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "rapid"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "deep"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "hospitable"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "daring"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "elated"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "foreign"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Menelaus",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "towering"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "ready"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "sharp"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "fruitful"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "insulting"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "sanguine"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "calm"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "several"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "prone"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "brother-kings"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "superior"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "grey"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "hopeless"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "wild"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Idomeneus",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "vengeful"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "genial"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "watchful"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "sparkling"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "public"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "weal"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "transient"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "timely"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "hasty"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "impatient"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "speedy"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "steep"
+  },
+  {
+    "Name": "Machaon",
+    "Type": "Human",
+    "Trait": "sublime"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "venerable"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "profound"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "solid"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "incessant"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "short"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Calchas",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "antique"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "watery"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "restless"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "mindful"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "wretched"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "second"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "luckless"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "deceased"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "human"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "costly"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "laborious"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "direful"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "western"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "due"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "silvery"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "graceful"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "many-colour"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "enough"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "vital"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "various"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "minstrel-god"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "good"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "ambitious"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "foremost"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "early"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "unknowing"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "high-bounding"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "natal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "hospitable"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "unmoved"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "present"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "lost"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "stiff"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "hasty"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "ruddy"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "shady"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Peleus",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "beautiful"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "sweet"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "hard"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "well-known"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "grateful"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "helpless"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "tedious"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "ruthless"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "compliant"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "calm"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "peaceful"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "beloved"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "white"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "friendly"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "brother-kings"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "fourth"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "weak"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "free"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "then--digest"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "grave"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "impatient"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "ever-pleasing"
+  },
+  {
+    "Name": "Phoenix",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "partial"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vain--let"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wakeful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "grateful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mother-queen"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "worth"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "slow-moving"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "resounding"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unactive"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fat"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gloomy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "pious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vast"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "cool"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "timely"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "inflexible"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "anxious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "solid"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ungenerous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "direct"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "past"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "second"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ardent"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "deliberate"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "short-lived"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "everlasting"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "kindred"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unknowing"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "busy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "free"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "active"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dry"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "avenging"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "naval"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "distressed"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "brutal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "headless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "envious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "useful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "bloody"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "re-embarking"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "faint"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "barbarous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "holy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "milk-white"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "warm"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "particular"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "glad"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "inflamed"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "high-bounding"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "stubborn"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "thirsty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "degenerate"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "minstrel-god"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "terrestrial"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "huge"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "daring"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "watery"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "re-inspires"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unutterable"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "short"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "liquid"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "craggy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "doubtful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ghastly"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "cold"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "brittle"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "superior"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "spacious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "pure"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "safe"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wealthy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "towering"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "pompous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "rocky"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "conspicuous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "radiant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ashen"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "averse"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "heavy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "resistless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "contiguous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hard"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mangled"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vain--he"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "owing"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tumultuous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gallant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unbound"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wondrous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "well-fought"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "red"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unwieldy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ponderous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "breathless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hapless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "enormous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "terrible"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "this--the"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "speedy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "massive"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "enraged"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "officious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "well-known"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "impossible"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "imperial"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "open"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "impetuous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "little"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "strict"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unknown"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fiery"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "airy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "prone"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vigorous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "goddess-mother"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "western"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "prodigious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "peculiar"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wide"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "double"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "grey"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "idle"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sedate"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "bare"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gigantic"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "steep"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vengeful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "insatiable"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "high-towering"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "impotent"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sea-god"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sure"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "grave"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unequal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "clear"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "steady"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hungry"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "innocent"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fond"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "woolly"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "scarce"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "blue-eyed"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "inspiring"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "untimely"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unhappy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "black"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hindmost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "foremost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "naked"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "common"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "insensible"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "long--for"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "miserable"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "compacted"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "insulting"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "topmost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "enough"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "various"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "horrible"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unalterable"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "numerous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fearless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sole"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "direful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "many"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ill"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "foreign"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unthinking"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "stygian"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tower-like"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "whole"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "twentieth"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tough"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "drunk"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "senseless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "hollow"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "steely"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "luckless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "majestic"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unusual"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "bull-hides"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "decent"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dazzling"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "secret"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "much"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "practised"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "peaceful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "beloved"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gay"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "flinty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "loved-one"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "present"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fearful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "prostrate"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sincere"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ready"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "watchful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "adverse"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tempestuous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "several"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "twelfth"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "noble"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "undaunted"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "laborious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "endearing"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dark"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "brother-warriors"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "forceful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "humble"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "knotty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "high-lifting"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sea-beat"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "vindictive"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ignoble"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "violent"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "human"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "skill"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "impending"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "rapid"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dauntless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "eager"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "obedient"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "easy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "early"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unseen"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "incessant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "grim"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "rear"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "lost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dishonest"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "poor"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "me--but"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "flush"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dear"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sprightly"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "pale"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gross"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "purple"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "inhuman"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wrong"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "guiltless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "worthy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "stops--so"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unbounded"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "due"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "formidable"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "pointless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wide-opening"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "illustrious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sovereign"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tame"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "providential"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "victorious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "low"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "decisive"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "guardless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "complete"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "snowy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "gory"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "audacious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "dangerous"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "triumphant"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "self-same"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ever-honour"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "cruel"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "giant-corse"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "uttermost"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mindful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "certain"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "deep"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "general"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "single"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "mutual"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "faithful"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "ambrosial"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "sanguine"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "inglorious"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "unwilling"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "tardy"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "nice"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "fruitless"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "embattled"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "welcome"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "important"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "jove-like"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "impatient"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "numbing"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "weighty"
+  },
+  {
+    "Name": "Hector",
+    "Type": "Human",
+    "Trait": "deathful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "partial"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "all-seeing"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sightless"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "yellow"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "human"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "cold"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "brittle"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "superior"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "considerate"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "unhappy"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "pious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "good"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "liquid"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "foremost"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "gloomy"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "uncertain"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "pompous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "feeble"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "cool"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "wont"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "dim"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "dusky"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "adulterous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "heavy"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "beloved"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "infectious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "dear"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sprightly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "pale"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "gross"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "unrelenting"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "stately"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "boundless"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "various"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "venturous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "weak"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "spare"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "avenging"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "ravish"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "guilty"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "foreign"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "massive"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "whole"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "lawless"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "third"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "bloody"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "lowly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sober"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "silent"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "decent"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "secret"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "victorious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "peaceful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "wretched"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "gay"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sepulchral"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "odious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "grisly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "pacific"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "hateful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "prodigious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "careful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "warlike"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "verdant"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "stupendous"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "fearful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "grey"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "ever-honour"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "vengeful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "constant"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "deep"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "single"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "frantic"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "bloodless"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "baneful"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "glaring"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "noble"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "sure"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "brother-warriors"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "much"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "nightly"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "destructive"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "grave"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "short"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "remote"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "splendid"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "deep-discerning"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "faithless"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "green"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Priam",
+    "Type": "Human",
+    "Trait": "undistinguish"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "fragrant"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "mother-queen"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "safe"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "anxious"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "much"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "unseen"
+  },
+  {
+    "Name": "Hecuba",
+    "Type": "Human",
+    "Trait": "careful"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "fond"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "yellow"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "disabled"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "ghastly"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "skill"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "fine"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "eager"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "spacious"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "bashful"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "dark"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "rival"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "lowly"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "second"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "cold"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "gallant"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "insulting"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "various"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "numerous"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "ravish"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "dusty"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "many"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "foreign"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "whole"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "fancy"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "hardy"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "female"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "lawful"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "secret"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "victorious"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "low"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "lovely"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "easy"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "warm"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "warlike"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "triumphant"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "FALSE"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "heartless"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "single"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "laughter-loving"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "copious"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "unwary"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "noble"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "discerning"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "guiltless"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "tall"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "third"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "faithless"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "barren"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "uninjured"
+  },
+  {
+    "Name": "Helen",
+    "Type": "Human",
+    "Trait": "weighty"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "heavy"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "incessant"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "harmless"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "towering"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "scarce"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "TRUE"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "rear"
+  },
+  {
+    "Name": "Aeneas",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "officious"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "welcome"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "ignorant"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "inner"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "joyful"
+  },
+  {
+    "Name": "Andromache",
+    "Type": "Human",
+    "Trait": "endearing"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "vaunted"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "vindictive"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "sincere"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "formidable"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "bloody"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "past"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "impossible"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "skill"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "ungenerous"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "naked"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "careful"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "faithful"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "pious"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "worth"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "free"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "cool"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "timely"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "brother-warriors"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "friendly"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "self-same"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "averse"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "dangerous"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Polydamas",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "alight"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "all-seeing"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "blameless"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "disabled"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "ardent"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "cold"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "gallant"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "large"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "mutual"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "unbound"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "daring"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "deadly"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "able"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "eager"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "useless"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "painful"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "bearded"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "sure"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "aspiring"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "warm"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "destructive"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "warlike"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "stately"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "slack"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "all-impotent"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "naked"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "smart"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "narrow"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Glaucus",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "vindictive"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "co-aids"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "graceful"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "inglorious"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "friendly"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "good"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "sore"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "pious"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "brother-warriors"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Agenor",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "unwary"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "aerial"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "faithful"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "blue-eyed"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "fearful"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "pale"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "dark"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "headless"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "other"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "scarce"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "unwilling"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Dolon",
+    "Type": "Human",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "unerring"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "careful"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "deep"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "black"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "wealthy"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "thick"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "warlike"
+  },
+  {
+    "Name": "Pandarus",
+    "Type": "Human",
+    "Trait": "former"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "bloody"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "graceful"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "bloodless"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "topmost"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "pale"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "fountful"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "fourth"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "young"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "beauteous"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "inglorious"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "snowy"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "eternal"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "mutual"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "milk-white"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "feeble"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "grave"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "brother-warriors"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "foreign"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Antenor",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "sinewy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "endless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "own"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "unworthy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "uttermost"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "blameless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "high"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "distant"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "uncomfortable"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "ardent"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "helpless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "skill"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "unbless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "generous"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "ancient"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "stray"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "forlorn"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "angry"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "faint"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "long"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "fruitful"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "late"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "vital"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "wise"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "several"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "happy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "unassisted"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "ambrosial"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "free"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "gloomy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "towering"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "hapless"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "warlike"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "present"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "silent"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "disabled"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "short"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "many"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "guilty"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "disdainful"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "native"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "averse"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "undistinguish"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "weighty"
+  },
+  {
+    "Name": "Sarpedon",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "beautiful"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "avenging"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "wretched"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "liquid"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "numerous"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "triumphant"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "well-rigg"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "tenth"
+  },
+  {
+    "Name": "Chryseis",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "beautiful"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "high-bounding"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "old"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "female"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "skill"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "absolute"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "industrious"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "slow"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "haughty"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "angry"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "vulgar"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "copious"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "same"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "next"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "victorious"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "inglorious"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "lovely"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "public"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "cruel"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "full"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "bold"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "guiltless"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "warm"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "new"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "such"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "eighth"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "splendid"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "great"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "last"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "hostile"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "dusty"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "radiant"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "uninjured"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "weighty"
+  },
+  {
+    "Name": "Briseis",
+    "Type": "Human",
+    "Trait": "first"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "costly"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "solemn"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "d.--the"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "captive"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "main"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "tenth"
+  },
+  {
+    "Name": "Chryses",
+    "Type": "Human",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Hera",
+    "Type": "God",
+    "Trait": "speedy"
+  },
+  {
+    "Name": "Hera",
+    "Type": "God",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Hera",
+    "Type": "God",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "nectar-bowl"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "partial"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "deep"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "briny"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "high"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "snowy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "brave"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "grateful"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "stern"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "aerial"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "two-and-twenty"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "tenth"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "brandish"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "sandy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "phantom"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "sensible"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "silent"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "deceitful"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "ever-dear"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "alternate"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "equal"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "long"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "mere"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "secret"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "much"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "various"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "present"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "new"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "main"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "leaden"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "empty"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "wretched"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "safe"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "pure"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "holy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "welcome"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "deathless"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "wrong"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "gloomy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "dire"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "worthy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "such"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "unwilling"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "vast"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "pensive"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "blue-hair"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "sea-green"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "short"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "unequal"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "last"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "fallacious"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "single"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "peculiar"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "ever-honour"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "averse"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "other"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "glorious"
+  },
+  {
+    "Name": "Thetis",
+    "Type": "God",
+    "Trait": "first"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "flaming"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "partial"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "wasteful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "grateful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "rough"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "blue-eyed"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "dauntless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "alternate"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fruitful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "black"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "slighted"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "main"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "resounding"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "brother-kings"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "ample"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "guardian-god"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "wealthy"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "vast"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "rocky"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "radiant"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "anxious"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "well-built"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "lofty"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "watery"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "blameless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "martial"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "honourable"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "valiant"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "flush"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "ardent"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "divine"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "tenth"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "embattled"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "god-like"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "purple"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "broad"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "new"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "full"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "dreadful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fearless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "matchless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "strong"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "avenging"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "enormous"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "last"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "many"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "unpaid"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "thine"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "stygian"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "loud"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "stony"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "first"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "envious"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "own"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fruitless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "stray"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "sweet"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "hollow"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "jealous"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "lowly"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "breathless"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "much"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "low"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "prone"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "vigorous"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "flinty"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "great"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "continual"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "immortal"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "dull"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "present"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fatal"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "utmost"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "double"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "famed"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "triumphant"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "manly"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "joyous"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "mystic"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "high"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "native"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "huge"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "daring"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "pure"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "ambrosial"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "copious"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "adverse"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "other"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "tempestuous"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fourth"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "several"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "poor"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "venerable"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "undaunted"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "craggy"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "fierce"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "unutterable"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "green"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "furious"
+  },
+  {
+    "Name": "Apollo",
+    "Type": "God",
+    "Trait": "numbing"
+  },
+  {
+    "Name": "Artemis",
+    "Type": "God",
+    "Trait": "heavenly"
+  },
+  {
+    "Name": "Artemis",
+    "Type": "God",
+    "Trait": "senior"
+  },
+  {
+    "Name": "Artemis",
+    "Type": "God",
+    "Trait": "far-beaming"
+  },
+  {
+    "Name": "Artemis",
+    "Type": "God",
+    "Trait": "sylvan"
+  },
+  {
+    "Name": "Artemis",
+    "Type": "God",
+    "Trait": "youthful"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "unrelenting"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "blind"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "celestial"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "constant"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "upper"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "simple"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "alight"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "vain"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "obscene"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "sovereign"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "past"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "gentle"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "sudden"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "mighty"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "ethereal"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "miserable"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "profitable"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "insulting"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "much"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "royal"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "young"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "adverse"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "boundless"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "other"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "black"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "rich"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "frail"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "underground"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "airy"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "grecian"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "main"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "resounding"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "full"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "incumbent"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "wide"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "safe"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "forgetful"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "brazen"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "uncommon"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "wakeful"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "such"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "destructive"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "vast"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "high"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "last"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "perfidious"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "plain"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "proud"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "implacable"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "mortal"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "azure"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "awake"
+  },
+  {
+    "Name": "Hermes",
+    "Type": "God",
+    "Trait": "soft"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "golden"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "old"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "fair"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "upper"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "dead"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "sad"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "high"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "bright"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "open"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "blue"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "rapid"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "ambrosial"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "much"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "various"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "sacred"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "airy"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "mournful"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "main"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "godlike"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "olympian"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "important"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "mad"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "awful"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "swift"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "thy"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "liquid"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "guilty"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "chief"
+  },
+  {
+    "Name": "Iris",
+    "Type": "God",
+    "Trait": "lofty"
+  }
+]
+}
