@@ -19,7 +19,7 @@
 
 */
 
-class Artwork {
+class Artwork implements Comparable {
 
   String artist;
   String title;
@@ -73,10 +73,19 @@ class Artwork {
 
   void render() {
     pushMatrix();
-    noFill();
-    stroke(255,10);
+    fill(255,50);
+    stroke(255,150);
     translate(pos.x, pos.y);
     rect(0, 0, dimensions.x, dimensions.y);
     popMatrix();
   }
+  
+  int compareTo(Object b) {
+    //area
+    float a1 = dimensions.x * dimensions.y;
+    float a2 = ((Artwork) b).dimensions.x * ((Artwork) b).dimensions.y;
+    return(int(a1) - int(a2));
+  }
+  
+  
 }
