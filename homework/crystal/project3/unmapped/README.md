@@ -5,3 +5,5 @@ Data source: https://hifld-dhs-gii.opendata.arcgis.com/datasets/b32014e1133945d0
 The data set doesn't have information I would really like to see, like broadcast strength or popularity, etc. I used the longitude position and colored the towers of the three major carriers -- Verizon, AT&T, and Sprint.
 
 ![Preview](https://github.com/crystal-b/dataart2016a/blob/master/homework/crystal/project3/unmapped/preview.png)
+
+I doubt the data set is even close to complete. For example, there are two Kings counties in the US -- one in California and the other is Brooklyn.
