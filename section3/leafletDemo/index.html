@@ -27,20 +27,29 @@
         <!-- Add your site or application content here -->
         <div id="map"></div>
         <script>
+
         	L.mapbox.accessToken = 'pk.eyJ1IjoiamVydGhvcnAiLCJhIjoiMVNTdlJCNCJ9.0oKND_-hkdHtlewBjcnp1Q';
 			// Replace 'mapbox.streets' with your map id.
-			var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+			// var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+			// class demo
+			var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 			    attribution: '© <a href="https://www.mapbox.com/map-feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 			});
 
 			var map = L.map('map')
 			    .addLayer(mapboxTiles)
-			    .setView([-21.257868202167128,24.798178172227004
-                        ], 12);
-
+			    //class demo
+			    // .setView([-21.257868202167128,24.798178172227004
+       //                  ], 12);
 			console.log($.getJSON);
-			$.getJSON( "test.json", function( data ) {
-				
+			// class demo
+			$.getJSON( "hippos.json", function( data ) {
+			// $.getJSON( "test.json", function( data ) {
+
+				var fp = data.results.features[0];
+				map.setView([fp.geometry.coordinates[1],fp.geometry.coordinates[0]
+                        ], 10);
+
 				for (var i = 0; i < data.results.features.length; i++) {
 
 					var geojsonMarkerOptions = {
@@ -61,8 +70,11 @@
 				    	style: function(feature) {
 				    		var st = {};
 				    		st.radius = Math.sqrt(feature.properties.Count);
-					        switch (feature.properties.SpeciesName) {
-					            case 'African Darter': 
+				    		//class demo
+				    		// switch (feature.properties.SpeciesName) {
+					        switch (feature.properties.Member) {
+					        	case 'Giles': 
+					            // case 'African Darter': 
 					            	st.fillColor =  "#ff0000";
 					            	break;
 					            case 'Great Egret':
