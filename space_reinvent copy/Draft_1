@@ -1,0 +1,35 @@
+Table move;
+int row = 0;
+
+void setup() {
+  size (1280, 720, P3D);
+  smooth();
+  background(0);
+  //smooth(4);
+  frameRate(20);
+  loadData();
+}
+
+void loadData() {
+  String url = "/Users/danaabrassart/Documents/DataArt/Space_Project/movement_points1.csv";
+  move = loadTable(url, "header");
+  //println(hand_mouth.getRowCount());
+  //println(hand_mouth.getColumnCount());
+}
+
+void draw(){
+  background(255);
+  translate(width/2, height/2);
+  rotate(-PI);
+  scale(900); //make everything bigger b/c all numbers are very small
+  stroke(0);
+  strokeWeight(0.75);
+ for(int row = 0; row < 13008; row += 1) {
+   for(int col=0; col < 9; col+=3){ 
+     point(move.getFloat(row,col), move.getFloat(row,col+1), move.getFloat(row,col+2));
+  }
+    //if (row < 13008) {
+  //row++; //increment your row
+//}
+}
+}
