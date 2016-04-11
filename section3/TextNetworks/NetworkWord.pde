@@ -26,9 +26,20 @@ class NetworkWord {
    for(String w:linkMap.keys()) {
     NetworkWord nw = wordMap.get(w);
     if (displayWords.contains(nw)) {
+      
       strokeWeight(sqrt(linkMap.get(w)) * 0.5);
-      stroke(0,150);
-      line(pos.x,pos.y, nw.pos.x, nw.pos.y);
+      println(linkMap.get(w));
+      float c = map(linkMap.get(w), 0, 100, 0, 255);
+      stroke(255,c,0,150);
+      
+      PVector center = new PVector(0,0);
+      PVector a1 = new PVector(pos.x, pos.y);
+      PVector a2 = new PVector(nw.pos.x, nw.pos.y);
+      PVector cp1 = a1.lerp(center, 0.5);
+      PVector cp2 = a2.lerp(center, 0.5);
+      //line(pos.x,pos.y, nw.pos.x, nw.pos.y);
+      noFill();
+      bezier(pos.x, pos.y, cp1.x, cp1.y, cp2.x, cp2.y, nw.pos.x, nw.pos.y);
     }
    } 
   }

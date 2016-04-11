@@ -19,7 +19,7 @@ void setup() {
 
 }
 
-void draw() {
+void draw() { 
   background(255);  
   translate(width/2, height/2);
   for (NetworkWord nw:displayWords) {
