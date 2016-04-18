@@ -30,7 +30,8 @@ class NetworkWord {
       strokeWeight(sqrt(linkMap.get(w)) * 0.5);
       println(linkMap.get(w));
       float c = map(linkMap.get(w), 0, 100, 0, 255);
-      stroke(255,c,0,150);
+      colorMode(HSB);
+      stroke(c,255,255,150);
       
       PVector center = new PVector(0,0);
       PVector a1 = new PVector(pos.x, pos.y);
