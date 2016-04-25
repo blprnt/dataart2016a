@@ -23,31 +23,53 @@ function setup() {
 
   //Sound maker
   carrier = new p5.Oscillator(); // connects to master output by default
-  carrier.freq(10);
-  carrier.amp(4);
+  carrier.freq(220);
+  carrier.amp(1);
   carrier.start();
 
-  //Modulator for the sound
+  //Modulator function() {};or the sound
   modulator = new p5.Oscillator('sine');
   modulator.disconnect();  // disconnect the modulator from master output
-  modulator.freq(89);
-  modulator.amp(4);
+  modulator.freq(5);
+  modulator.amp(1);
   modulator.start();
 
   // Modulate the carrier's amplitude with the modulator
   // Optionally, we can scale the signal.
   carrier.amp(modulator.scale(-1,1,1,-1));
 
-  requestHR("Steve", 23);
+  requestHR("Adjany", 30);
 
 }
 
 
 function draw() {
+  background(0);
+  stroke(255,10);
   if (beats) {
-    var beat = beats[frameCount % beats.length];
-    println(beat);
+    for (var i = 0; i < beats.length; i++) {
+      var x = map(i, 0, beats.length, 0, width);
+      var interval = beats[i]; //millis per beat
+      var h = (1.0 / interval) * 1000 * 60; //BPM
+      line(x, height, x, height - h);
+
+     
+    }
+
+    
+
   }
+
+     //Get the current BPM
+      var cBPM = (1.0 / beats[0]) * 1000 * 60;
+
+      var modFreq = cBPM / 60;
+      println(modFreq);
+      modulator.freq(modFreq);
+
+      var modAmp = 0.5;//map(mouseX, 0, width, 0, 1);
+      modulator.amp(modAmp, 0.03);
+
 }
 
 
@@ -70,6 +92,5 @@ function receiveHR(data) {
 
   console.log("RECEIVE HEART RATE");
   beats = data.results.features[0].properties.Beats;
-  println(beats);
 }
 
