@@ -14,7 +14,7 @@
 		<link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
         <style>
         	body { margin:0; padding:0; }
-  #map { position:absolute; top:0; bottom:0; width:100%; }
+  			#map { position:absolute; top:0; bottom:0; width:100%; }
         </style>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -30,14 +30,18 @@
 
         	L.mapbox.accessToken = 'pk.eyJ1IjoiamVydGhvcnAiLCJhIjoiMVNTdlJCNCJ9.0oKND_-hkdHtlewBjcnp1Q';
 			// Replace 'mapbox.streets' with your map id.
+<<<<<<< HEAD
 			// var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 			// class demo
+=======
+>>>>>>> upstream/master
 			var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 			    attribution: '© <a href="https://www.mapbox.com/map-feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 			});
 
 			var map = L.map('map')
 			    .addLayer(mapboxTiles)
+<<<<<<< HEAD
 			    //class demo
 			    // .setView([-21.257868202167128,24.798178172227004
        //                  ], 12);
@@ -47,10 +51,20 @@
 			// $.getJSON( "test.json", function( data ) {
 
 				var fp = data.results.features[0];
+=======
+			    
+
+			console.log($.getJSON);
+			$.getJSON( "hippos15.json", function( data ) {
+			
+				var fp = data.results.features[1];
+>>>>>>> upstream/master
 				map.setView([fp.geometry.coordinates[1],fp.geometry.coordinates[0]
                         ], 10);
 
 				for (var i = 0; i < data.results.features.length; i++) {
+
+
 
 					var geojsonMarkerOptions = {
 					    radius: 8,
@@ -69,17 +83,20 @@
 				    	},
 				    	style: function(feature) {
 				    		var st = {};
+<<<<<<< HEAD
 				    		st.radius = Math.sqrt(feature.properties.Count);
 				    		//class demo
 				    		// switch (feature.properties.SpeciesName) {
 					        switch (feature.properties.Member) {
 					        	case 'Giles': 
 					            // case 'African Darter': 
+=======
+				    		st.radius = 3 + Math.sqrt(feature.properties.Count);
+					        switch (feature.properties.Member) {
+					            case 'Giles': 
+>>>>>>> upstream/master
 					            	st.fillColor =  "#ff0000";
 					            	break;
-					            case 'Great Egret':
-					                st.fillColor =  "#0000ff";
-					                break;
 					        }
 					        return(st);
 					    }
